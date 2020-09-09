@@ -1,0 +1,22 @@
+# (bg              "#FFFFE8") ; default bg
+#      (bg-alt          "#EFEFD8")
+#      (bg-dark         "#E5E5D0")
+#      (fg              (if acme-theme-black-fg "#000000" "#444444")) ; default fg
+#      (fg-alt          "#B8B09A")
+#      (fg-dark         "#988D6D")
+#      (fg-light        "#CCCCB7")
+#      (highlight       "#E8EB98")
+#      (highlight-alt   "#E8EBC8")
+
+
+bg:		"#ffffdd"
+bg_alt:	"#efefd8"
+pri:	"#000000"
+sec:	"#000000"
+alert:	"#000000"
+cur:	"#000000"
+fill1:	"#000000"
+fill2:	"#000000"
+fg:		"#444444"
+fg_alt:	"#b8b09a"
+fg_alt:	"#988d6d"
