@@ -1,0 +1,11 @@
+#! vi: ft=yaml
+bg     : "#F8EFE9"
+bg_alt : "#D5CED2"
+fg     : "#231C18"
+fg_alt : "#6FA388"
+pri    : "#6EAECF"
+sec    : "#2D944D"
+alert  : "#DF411A"
+cursor : "#F1A500"
+com    : "#AEACCF"
+block  : "#B38589"
